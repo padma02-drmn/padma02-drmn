@@ -6,36 +6,33 @@ I'm a developer passionate about building tools with **Rust** and **Python**.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+## 🛠️ Tech Stack
+
+- Rust (CLI tools, simulators)
+- Python (automation, data pipelines)
+- Solidity (smart contract work)
+
+## ⭐ Featured (Public) Projects
+
+- **OracleX (Rust)** — Oracle desynchronization risk simulator for DeFi auditing  
+  https://github.com/padma02-drmn/oraclex-rs
+
+- **Ghost Army Manager (Rust)** — CLI for managing multi-account workflows (local-first)  
+  https://github.com/padma02-drmn/ghost-army-manager
+
+- **Web3 Leads Intelligence (Python)** — portfolio demo of a Web3 leads pipeline (architecture showcase)  
+  https://github.com/padma02-drmn/web3-leads-intelligence
+
+> Note: I keep forks out of my portfolio highlights unless I’ve made significant original contributions.
 
 ## 🔭 Current Focus
 
-- 🦀 Building CLI tools with Rust
-- 🐍 Automation scripts with Python
-- 📊 Data analysis & visualization
-- 🔗 Exploring blockchain technology
-
-## 📦 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [OracleX](https://github.com/padma02-drmn/oraclex-rs) | Oracle timing analysis tool | Rust |
-| [Quantum Crypto Analytics](https://github.com/padma02-drmn/quantum-crypto-analytics) | Crypto analysis with quantum algorithms | Python |
-| [Raka Agent Forge](https://github.com/padma02-drmn/raka_agent_forge) | Self-healing AI automation | Python |
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=padma02-drmn&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padma02-drmn&layout=compact&theme=dark&hide_border=true)
-
-## 🌱 Currently Learning
-
-- Advanced Rust patterns
-- Smart contract development
-- AI/ML integration
+- DeFi security research & tooling
+- Rust CLI ergonomics + performance
+- Practical automation that ships
 
 ---
 
-*"The best way to learn is to build."* 🚀
+If you want a quick overview: start with **OracleX**.
