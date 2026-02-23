@@ -12,7 +12,7 @@ I'm a developer passionate about building tools with **Rust** and **Python**.
 
 - Rust (CLI tools, simulators)
 - Python (automation, data pipelines)
-- Solidity (smart contract work)
+
 
 ## ⭐ Featured (Public) Projects
 
